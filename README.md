@@ -1,11 +1,13 @@
-    <h1 align="center">Hi there, I'm Noran👋</h1>
+  
+
+# Hi there I'm Noran 👋
 - 🔭 I’m currently studying **computer science In my third year**
 
-- 💬 Ask me about **UI/UX,problem solving**
+- 💬 Ask me about **UI/UX , problem solving**
 
 - 📫 How to reach me: **noranhamdy783@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
