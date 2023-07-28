@@ -3,7 +3,9 @@
 # Hi there I'm Noran 👋
 - 🔭 I’m currently studying **computer science In my third year**
 
-- 💬 Ask me about **UI/UX , problem solving**
+- 💬 Ask me about **UI/UX , problem solving , Nodejs**
+
+- 🌱 I’m currently learning **Backend Development & Software Development**
 
 - 📫 How to reach me: **noranhamdy783@gmail.com**
 
